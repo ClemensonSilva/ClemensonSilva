@@ -34,12 +34,11 @@ Atualmente, estou aprofundando meus conhecimentos em arquitetura de software e b
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🏆 Conquistas no GitHub
 
 <div align="center">
-  <a href="https://github.com/ClemensonSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClemensonSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClemensonSilva&layout=compact&theme=dracula"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ClemensonSilva&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" />
   </a>
 </div>
 
