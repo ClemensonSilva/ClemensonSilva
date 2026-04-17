@@ -1,6 +1,6 @@
 # Olá, eu sou o Clemenson da Silva! 👋
 
-Sou graduando em **Ciência da Computação na UFERSA** e Desenvolvedor de Software focado em criar soluções eficientes e escaláveis. Meu foco principal é o desenvolvimento Back-end com **Java** e **PHP**, mas também tenho sólida experiência construindo interfaces com **React**.
+Sou graduando em **Ciência da Computação na UFERSA** e Desenvolvedor de Software focado em criar soluções eficientes e escaláveis. Meu foco principal é o desenvolvimento Back-end com **Java** e **Ruby**, mas também tenho sólida experiência construindo interfaces com **React**.
 
 Atualmente, estou aprofundando meus conhecimentos em arquitetura de software e boas práticas (Clean Code).
 
@@ -14,12 +14,12 @@ Atualmente, estou aprofundando meus conhecimentos em arquitetura de software e b
 
 **Linguagens & Frameworks**
 <div style="display: inline_block"><br>
+  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  <img align="center" alt="Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  <img align="center" alt="Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
